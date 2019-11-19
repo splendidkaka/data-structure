@@ -1,0 +1,10 @@
+[Project]
+ProjectName=ջ
+ProjectType=
+[Source Files]
+FileName=.\main.c
+[Header Files]
+[Other Files]
+[$ProjectFilesNotInFolder$]
+[$Breakpoints$]
+[$Watches$]

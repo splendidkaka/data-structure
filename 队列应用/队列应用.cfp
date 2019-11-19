@@ -1,0 +1,10 @@
+[Project]
+ProjectName=队列应用
+ProjectType=
+[Source Files]
+FileName=.\main.c
+[Header Files]
+[Other Files]
+[$ProjectFilesNotInFolder$]
+[$Breakpoints$]
+[$Watches$]

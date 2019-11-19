@@ -1,0 +1,10 @@
+[Project]
+ProjectName=利用栈完成算术表达式
+ProjectType=EXE
+[Source Files]
+FileName=.\main.c
+[Header Files]
+[Other Files]
+[$ProjectFilesNotInFolder$]
+[$Breakpoints$]
+[$Watches$]
