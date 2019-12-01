@@ -1,0 +1,10 @@
+[Project]
+ProjectName=æ≤Ã¨≤È’“
+ProjectType=EXE
+[Source Files]
+FileName=.\main.c
+[Header Files]
+[Other Files]
+[$ProjectFilesNotInFolder$]
+[$Breakpoints$]
+[$Watches$]
